@@ -1,0 +1,14 @@
+{
+  "name": "googlesafebrowse",
+  "version": "1.0.0",
+  "description": "Sample node.js app to test google safe browse api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "request": "^2.70.0"
+  }
+}
